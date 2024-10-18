@@ -690,7 +690,7 @@ a{
 }
 /*end footer*/
 /*start media*/
-@media (min-width:575px) and (max-width:991px){
+@media (max-width:991px){
     .container{
         width: 100%;
     }
